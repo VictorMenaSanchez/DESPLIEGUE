@@ -1,0 +1,17 @@
+Crea un fichero llamado git.html con un contenido que diga Hola Git
+Visualiza el estado del repositorio
+Añadelo a la zona de intercambio o almacenamiento
+Modifícalo y añade una nueva línea con tu nombre
+Visualiza el estado
+Descarta los cambios en el fichero en la zona de trabajo
+Vuelve a añadir otra línea con tus apellidos
+Visualiza el estado del repositorio
+Confirma en el repositorio
+Actualiza a la zona de intercambio
+Modifica el fichero y añade el grupo
+Visualiza el estado del repositorio
+Actualiza el fichero en la zona de intercambios
+Descarta los cambios en la zona de trabajo
+Confirma los cambios en el repositorio
+Muestra las confirmaciones realizados en directorio
+Muestra los cambios realizados en el fichero de dos maneras distintas
